@@ -4,12 +4,15 @@
 **Prerequisites**
 Ensure you have the following installed on your local machine:
 
-* Git: For cloning and version control.
-* Python: To run the code snippets.
-* Qiskit: For quantum computing simulations.
+* <a href="https://github.com/">Git:</a> For cloning and version control.
+* <a href="https://www.anaconda.com/">Anaconda:</a>To run the code snippets.
+* <a href="https://code.visualstudio.com/">Visual Studio Code:</a> To run the project
+* <a href="https://www.ibm.com/quantum/qiskit">Qiskit:</a>For quantum computing simulations. 
+* -> _Install Qiskit - !pip install qiskit - !pip install qiskit-ibm-runtime_
 
-### Getting Started
-1. Clone the repository
+### Getting Started'
+1. Install prerequisite 
+2. Clone the repository
 clone this repository and navigate into it, run the following commands in your terminal:
 
 _git clone [https://github.com/RazzaNoonan/EmergingTechnologies.git] <br>
