@@ -9,6 +9,8 @@ Ensure you have the following installed on your local machine:
 * <a href="https://code.visualstudio.com/">Visual Studio Code:</a> To run the project
 * <a href="https://www.ibm.com/quantum/qiskit">Qiskit:</a>For quantum computing simulations. 
 * -> _Install Qiskit - !pip install qiskit - !pip install qiskit-ibm-runtime_
+* -> _Install Qiskit Aer - pip install qiskit-aer_
+
 
 ### Getting Started'
 1. Install prerequisite 
