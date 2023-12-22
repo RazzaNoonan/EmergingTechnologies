@@ -10,6 +10,7 @@ Ensure you have the following installed on your local machine:
 * <a href="https://www.ibm.com/quantum/qiskit">Qiskit:</a>For quantum computing simulations. 
 * -> _Install Qiskit - !pip install qiskit - !pip install qiskit-ibm-runtime_
 * -> _Install Qiskit Aer - pip install qiskit-aer_
+* -> _Install Matplotlib - pip install matplotlib_
 
 
 ### Getting Started'
@@ -23,6 +24,11 @@ cd Emerging Tech_
 ### Contents
 * project.ipynb is my notebook on Deutsch's Algorithm
 * tasks.ipynb is my Tasks notebook that we done throughout the semester.
+
+#### project.ipynb
+
+
+#### tasks.ipynb
 
 
 
