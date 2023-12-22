@@ -26,10 +26,20 @@ cd Emerging Tech_
 * tasks.ipynb is my Tasks notebook that we done throughout the semester.
 
 #### project.ipynb
-
+* Introduction
+* Understanding Quantum Computing
+* Quantum Gates
+* Deutsch's Algorithm
+* Implementing Deutsch's Algorithm Using Qiskit
+* Implementing the Deutsch-Jozsa Algorithm Using Qiskit
+* Quantum entanglement in quantum computers 
+* Conclusion
 
 #### tasks.ipynb
-
+* [x] Verifying the Collatz Conjecture
+* [x] Newton's method
+* [x] Exploring Functions with Binary Inputs and Outputs
+* [x] Function that performs matrix multiplication on two rectangular
 
 
 
